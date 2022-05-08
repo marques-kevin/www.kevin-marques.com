@@ -1,0 +1,63 @@
+{
+  "username": "Kevin Marques",
+  "handle": "kevin-marques",
+  "bio": "Yo everyone ❤️ I'm a pianist, web developer, article writer around computer   development, and many other passions! 🔱 I hope to see you on the net!",
+  "image": {
+    "src": "../assets/te_le_chargement.jpeg",
+    "alt": "zdazd"
+  },
+  "networks": [
+    {
+      "network": "instagram",
+      "url": "https://www.instagram.com/"
+    },
+    {
+      "network": "twitter",
+      "url": "https://www.instagram.com/"
+    },
+    {
+      "network": "facebook",
+      "url": "https://www.instagram.com/"
+    },
+    {
+      "network": "snapchat",
+      "url": "https://www.instagram.com/"
+    },
+    {
+      "network": "tiktok",
+      "url": "https://www.instagram.com/"
+    },
+    {
+      "network": "medium",
+      "url": "https://www.instagram.com/"
+    }
+  ],
+  "sections": [
+    {
+      "title": "My companies & Projects",
+      "description": "I try to create web applications with the goal to become the top on       the market.",
+      "blocks": [
+        {
+          "type": "block/link",
+          "title": "Sudoku Academy",
+          "description": "Whether you are a beginner or an advanced player, come and have fun solving sudoku puzzles online for free.",
+          "favicon": {
+            "src": "../assets/icon-96x96.png",
+            "alt": "default alt"
+          },
+          "url": "https://www.sudoku.academy/"
+        },
+        {
+          "type": "block/link",
+          "title": "Temple du Haïku",
+          "description": "Le Temple du Haïku est un site communautaire pour passionnés de haïkus, lire et publier des haïkus, visionner des exemple de haïkus d'auteurs comme Matsuo Basho.",
+          "favicon": {
+            "src": "../assets/192x192.png",
+            "alt": "temple"
+          },
+          "url": "https://www.temple-du-haiku.fr/"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+name: Upgrade
+
+"on":
+  schedule:
+    - cron: "0 0 * * *"
+
+jobs:
+  upgrade:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v3
+
+      - uses: actions/cache@v2
+        id: yarn-cache # use this to check for `cache-hit` (`steps.yarn-cache.outputs.cache-hit != 'true'`)
+        with:
+          path: "**/node_modules"
+          key: ${{ runner.os }}-yarn-${{ hashFiles('**/yarn.lock') }}
+          restore-keys: |
+            ${{ runner.os }}-yarn-
+
+      - name: Install dependencies
+        if: steps.yarn-cache.outputs.cache-hit != 'true'
+        run: yarn install
+
+      - name: Check If Can Upgrade
+        continue-on-error: false
+        run: yarn check:upgrade
+
+      - name: Upgrade
+        run: yarn upgrade @foudroyer/mur
+
+      - name: "Git Config"
+        run: |
+          git config --global user.email "git@foudroyer.com"
+          git config --global user.name "Foudroyer"
+          git config --global push.default simple
+
+      - name: Commit & Push
+        continue-on-error: true
+        run: "git add . && git commit -m 'chore: upgrade foudroyer/mur' && git push"

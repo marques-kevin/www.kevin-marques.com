@@ -1,0 +1,14 @@
+{
+  "analytics": {
+    "google": {
+      "trackingIds": [],
+      "enabled": false,
+      "cookie_expires": 0,
+      "anonymize_ip": true
+    },
+    "plausible": {
+      "domain": "",
+      "enabled": false
+    }
+  }
+}

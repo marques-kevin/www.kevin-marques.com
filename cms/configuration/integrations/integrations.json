@@ -7,8 +7,8 @@
       "anonymize_ip": true
     },
     "plausible": {
-      "domain": "",
-      "enabled": false
+      "domain": "mur.foudroyer.com",
+      "enabled": true
     }
   }
 }

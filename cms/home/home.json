@@ -4,32 +4,28 @@
   "bio": "Yo everyone ❤️ I'm a pianist, web developer, article writer around computer   development, and many other passions! 🔱 I hope to see you on the net!",
   "image": {
     "src": "../assets/te_le_chargement.jpeg",
-    "alt": "zdazd"
+    "alt": "kevin-marques"
   },
   "networks": [
     {
       "network": "instagram",
-      "url": "https://www.instagram.com/"
+      "url": "https://www.instagram.com/km_marques/"
     },
     {
       "network": "twitter",
-      "url": "https://www.instagram.com/"
+      "url": "https://twitter.com/KM_Marques"
     },
     {
       "network": "facebook",
-      "url": "https://www.instagram.com/"
-    },
-    {
-      "network": "snapchat",
-      "url": "https://www.instagram.com/"
+      "url": "https://www.facebook.com/kevin.marques.humain"
     },
     {
       "network": "tiktok",
-      "url": "https://www.instagram.com/"
+      "url": "https://www.tiktok.com/@le_kem_"
     },
     {
       "network": "medium",
-      "url": "https://www.instagram.com/"
+      "url": "https://medium.com/@MarquesKevin"
     }
   ],
   "sections": [

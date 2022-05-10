@@ -1,8 +1,8 @@
 {
   "label": "Erreur 404",
-  "title": "Page non trouvée",
-  "description": "Nous sommes désolés mais cette page n'existe pas 🙇‍♂️.",
-  "button": "Retourner à l'accueil",
+  "title": "Page not found",
+  "description": "We are sorry but this page does not exist 🙇.",
+  "button": "Go home",
   "meta": {
     "indexable": false,
     "title": "Page non trouvée",

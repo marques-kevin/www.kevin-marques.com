@@ -5086,9 +5086,9 @@ caniuse-lite@^1.0.30001332:
   integrity sha512-VFaWW3jeo6DLU5rwdiasosxhYSduJgSGil4cSyX3/85fbctlE58pXAkWyuRmVA0r2RxsOSVYUTZcySJ8WpbTxw==
 
 caniuse-lite@^1.0.30001349:
-  version "1.0.30001356"
-  resolved "https://registry.yarnpkg.com/caniuse-lite/-/caniuse-lite-1.0.30001356.tgz#cbf5fe7b33f90962bfbca532212ea478d4ec9de8"
-  integrity sha512-/30854bktMLhxtjieIxsrJBfs2gTM1pel6MXKF3K+RdIVJZcsn2A2QdhsuR4/p9+R204fZw0zCBBhktX8xWuyQ==
+  version "1.0.30001357"
+  resolved "https://registry.yarnpkg.com/caniuse-lite/-/caniuse-lite-1.0.30001357.tgz#dec7fc4158ef6ad24690d0eec7b91f32b8cb1b5d"
+  integrity sha512-b+KbWHdHePp+ZpNj+RDHFChZmuN+J5EvuQUlee9jOQIUAdhv9uvAZeEtUeLAknXbkiu1uxjQ9NLp1ie894CuWg==
 
 ccount@^1.0.0, ccount@^1.0.3:
   version "1.1.0"
@@ -5644,9 +5644,9 @@ core-js-compat@3.9.0:
     semver "7.0.0"
 
 core-js-compat@^3.21.0, core-js-compat@^3.22.1:
-  version "3.23.1"
-  resolved "https://registry.yarnpkg.com/core-js-compat/-/core-js-compat-3.23.1.tgz#23d44d9f209086e60dabf9130cea7719af6e199b"
-  integrity sha512-KeYrEc8t6FJsKYB2qnDwRHWaC0cJNaqlHfCpMe5q3j/W1nje3moib/txNklddLPCtGb+etcBIyJ8zuMa/LN5/A==
+  version "3.23.2"
+  resolved "https://registry.yarnpkg.com/core-js-compat/-/core-js-compat-3.23.2.tgz#5cbf8a9c8812d665392845b85ae91b5bcc7b615c"
+  integrity sha512-lrgZvxFwbQp9v7E8mX0rJ+JX7Bvh4eGULZXA1IAyjlsnWvCdw6TF8Tg6xtaSUSJMrSrMaLdpmk+V54LM1dvfOA==
   dependencies:
     browserslist "^4.20.4"
     semver "7.0.0"
@@ -5657,9 +5657,9 @@ core-js-pure@^3.20.2:
   integrity sha512-oN88zz7nmKROMy8GOjs+LN+0LedIvbMdnB5XsTlhcOg1WGARt9l0LFg0zohdoFmCsEZ1h2ZbSQ6azj3M+vhzwQ==
 
 core-js@^3.17.2:
-  version "3.23.1"
-  resolved "https://registry.yarnpkg.com/core-js/-/core-js-3.23.1.tgz#9f9a9255115f62c512db56d567f636da32ca0b78"
-  integrity sha512-wfMYHWi1WQjpgZNC9kAlN4ut04TM9fUTdi7CqIoTVM7yaiOUQTklOzfb+oWH3r9edQcT3F887swuVmxrV+CC8w==
+  version "3.23.2"
+  resolved "https://registry.yarnpkg.com/core-js/-/core-js-3.23.2.tgz#e07a60ca8b14dd129cabdc3d2551baf5a01c76f0"
+  integrity sha512-ELJOWxNrJfOH/WK4VJ3Qd+fOqZuOuDNDJz0xG6Bt4mGg2eO/UT9CljCrbqDGovjLKUrGajEEBcoTOc0w+yBYeQ==
 
 core-util-is@~1.0.0:
   version "1.0.3"
@@ -6472,9 +6472,9 @@ electron-to-chromium@^1.4.118:
   integrity sha512-8MJk1bcQUAYkuvCyWZxaldiwoDG0E0AMzBGA6cv3WfuvJySiPgfidEPBFCRRH3cZm6SVZwo/oRlK1ehi1QNEIQ==
 
 electron-to-chromium@^1.4.147:
-  version "1.4.161"
-  resolved "https://registry.yarnpkg.com/electron-to-chromium/-/electron-to-chromium-1.4.161.tgz#49cb5b35385bfee6cc439d0a04fbba7a7a7f08a1"
-  integrity sha512-sTjBRhqh6wFodzZtc5Iu8/R95OkwaPNn7tj/TaDU5nu/5EFiQDtADGAXdR4tJcTEHlYfJpHqigzJqHvPgehP8A==
+  version "1.4.162"
+  resolved "https://registry.yarnpkg.com/electron-to-chromium/-/electron-to-chromium-1.4.162.tgz#69f8b900477208544a6e2a6e9bd3dc9e73163ed8"
+  integrity sha512-JrMk3tR2rnBojfAipp9nGh/vcWyBHeNsAVBqehtk4vq0o1bE4sVw19ICeidNx3u0i2yg4X8BvyUIM/yo2vO9aA==
 
 emoji-regex@^8.0.0:
   version "8.0.0"
@@ -10063,9 +10063,9 @@ keyv@^3.0.0:
     json-buffer "3.0.0"
 
 keyv@^4.0.0:
-  version "4.3.0"
-  resolved "https://registry.yarnpkg.com/keyv/-/keyv-4.3.0.tgz#b4352e0e4fe7c94111947d6738a6d3fe7903027c"
-  integrity sha512-C30Un9+63J0CsR7Wka5quXKqYZsT6dcRQ2aOwGcSc3RiQ4HGWpTAHlCA+puNfw2jA/s11EsxA1nCXgZRuRKMQQ==
+  version "4.3.1"
+  resolved "https://registry.yarnpkg.com/keyv/-/keyv-4.3.1.tgz#7970672f137d987945821b1a07b524ce5a4edd27"
+  integrity sha512-nwP7AQOxFzELXsNq3zCx/oh81zu4DHWwCE6W9RaeHb7OHO0JpmKS8n801ovVQC7PTsZDWtPA5j1QY+/WWtARYg==
   dependencies:
     compress-brotli "^1.3.8"
     json-buffer "3.0.1"

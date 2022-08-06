@@ -106,10 +106,10 @@
     eslint-visitor-keys "^2.1.0"
     semver "^6.3.0"
 
-"@babel/generator@^7.15.4", "@babel/generator@^7.18.10", "@babel/generator@^7.18.9":
-  version "7.18.10"
-  resolved "https://registry.yarnpkg.com/@babel/generator/-/generator-7.18.10.tgz#794f328bfabdcbaf0ebf9bf91b5b57b61fa77a2a"
-  integrity sha512-0+sW7e3HjQbiHbj1NeU/vN8ornohYlacAfZIaXhdoGweQqgcNy69COVciYYqEXJ/v+9OBA7Frxm4CVAuNqKeNA==
+"@babel/generator@^7.15.4", "@babel/generator@^7.18.10":
+  version "7.18.12"
+  resolved "https://registry.yarnpkg.com/@babel/generator/-/generator-7.18.12.tgz#fa58daa303757bd6f5e4bbca91b342040463d9f4"
+  integrity sha512-dfQ8ebCN98SvyL7IxNMCUtZQSq5R7kxgN+r8qYTGDmmSion1hX2C0zq2yo1bsCDhXixokv1SAWTZUMYbO/V5zg==
   dependencies:
     "@babel/types" "^7.18.10"
     "@jridgewell/gen-mapping" "^0.3.2"
@@ -157,6 +157,15 @@
   integrity sha512-wt5Naw6lJrL1/SGkipMiFxJjtyczUWTP38deiP1PO60HsBjDeKk08CGC3S8iVuvf0FmTdgKwU1KIXzSKL1G0Ug==
   dependencies:
     "@babel/types" "^7.18.9"
+    "@jridgewell/gen-mapping" "^0.3.2"
+    jsesc "^2.5.1"
+
+"@babel/generator@^7.18.9":
+  version "7.18.10"
+  resolved "https://registry.yarnpkg.com/@babel/generator/-/generator-7.18.10.tgz#794f328bfabdcbaf0ebf9bf91b5b57b61fa77a2a"
+  integrity sha512-0+sW7e3HjQbiHbj1NeU/vN8ornohYlacAfZIaXhdoGweQqgcNy69COVciYYqEXJ/v+9OBA7Frxm4CVAuNqKeNA==
+  dependencies:
+    "@babel/types" "^7.18.10"
     "@jridgewell/gen-mapping" "^0.3.2"
     jsesc "^2.5.1"
 
@@ -1477,9 +1486,9 @@
     "@babel/plugin-syntax-typescript" "^7.17.12"
 
 "@babel/plugin-transform-typescript@^7.18.6":
-  version "7.18.10"
-  resolved "https://registry.yarnpkg.com/@babel/plugin-transform-typescript/-/plugin-transform-typescript-7.18.10.tgz#b23401b32f1f079396bcaed01667a54ebe4f9f85"
-  integrity sha512-j2HQCJuMbi88QftIb5zlRu3c7PU+sXNnscqsrjqegoGiCgXR569pEdben9vly5QHKL2ilYkfnSwu64zsZo/VYQ==
+  version "7.18.12"
+  resolved "https://registry.yarnpkg.com/@babel/plugin-transform-typescript/-/plugin-transform-typescript-7.18.12.tgz#712e9a71b9e00fde9f8c0238e0cceee86ab2f8fd"
+  integrity sha512-2vjjam0cum0miPkenUbQswKowuxs/NjMwIKEq0zwegRxXk12C9YOF9STXnaUptITOtOJHKHpzvvWYOjbm6tc0w==
   dependencies:
     "@babel/helper-create-class-features-plugin" "^7.18.9"
     "@babel/helper-plugin-utils" "^7.18.9"
@@ -17333,9 +17342,9 @@ xstate@^4.26.0:
   integrity sha512-UK5m6OqUsTlPuKWkfRR5cR9/Yt7sysFyEg+PVIbEH9mwHSf9zuCvWO7rRvhBq7T+3pEXLKTEMfaqmLxl9Ob1pw==
 
 xstate@^4.26.1:
-  version "4.32.1"
-  resolved "https://registry.yarnpkg.com/xstate/-/xstate-4.32.1.tgz#1a09c808a66072938861a3b4acc5b38460244b70"
-  integrity sha512-QYUd+3GkXZ8i6qdixnOn28bL3EvA++LONYL/EMWwKlFSh/hiLndJ8YTnz77FDs+JUXcwU7NZJg7qoezoRHc4GQ==
+  version "4.33.0"
+  resolved "https://registry.yarnpkg.com/xstate/-/xstate-4.33.0.tgz#4377a11e92267ad01ea498c4fc69887f0eddf1c8"
+  integrity sha512-+oari/Nt2cBq79mklnGA9Tsb6kv7ln+cIMfrH6n642XpTEG6sMRHg4GkooAbGbcslG3Ff9uH2jmGRP+1uoZ/Xw==
 
 xtend@^4.0.0, xtend@^4.0.1:
   version "4.0.2"

@@ -3079,9 +3079,9 @@
   integrity sha512-XPSJHWmi394fuUuzDnGz1wiKqWfo1yXecHQMRf2l6hztTO+nPru658AyDngaBe7isIxEkRsPR3FZh+s7iVa4Uw==
 
 "@jridgewell/trace-mapping@^0.3.9":
-  version "0.3.14"
-  resolved "https://registry.yarnpkg.com/@jridgewell/trace-mapping/-/trace-mapping-0.3.14.tgz#b231a081d8f66796e475ad588a1ef473112701ed"
-  integrity sha512-bJWEfQ9lPTvm3SneWwRFVLzrh6nhjwqw7TUFFBEMzwvg7t7PCDenf2lDwqo4NQXzdpgBXyFgDWnQA+2vkruksQ==
+  version "0.3.15"
+  resolved "https://registry.yarnpkg.com/@jridgewell/trace-mapping/-/trace-mapping-0.3.15.tgz#aba35c48a38d3fd84b37e66c9c0423f9744f9774"
+  integrity sha512-oWZNOULl+UbhsgB51uuZzglikfIKSUBO/M9W2OfEjn7cmqoAiCgmv9lyACTUacZwBz0ITnJ2NqjU8Tx0DHL88g==
   dependencies:
     "@jridgewell/resolve-uri" "^3.0.3"
     "@jridgewell/sourcemap-codec" "^1.4.10"
@@ -6961,9 +6961,9 @@ electron-to-chromium@^1.4.118:
   integrity sha512-8MJk1bcQUAYkuvCyWZxaldiwoDG0E0AMzBGA6cv3WfuvJySiPgfidEPBFCRRH3cZm6SVZwo/oRlK1ehi1QNEIQ==
 
 electron-to-chromium@^1.4.202:
-  version "1.4.214"
-  resolved "https://registry.yarnpkg.com/electron-to-chromium/-/electron-to-chromium-1.4.214.tgz#a06499c8d950e74a45fe8ba37f89892667430478"
-  integrity sha512-HTLm4/c5vNoM/57HJWIc1ZAnsyLNcqwtztS4+wGKS/gYrfyvfHrvkenbEewj9KjoSwg8xl66cF78TEPby6p2KA==
+  version "1.4.216"
+  resolved "https://registry.yarnpkg.com/electron-to-chromium/-/electron-to-chromium-1.4.216.tgz#e1b56d3dc81333fbfd74a967b45a03d822e67af8"
+  integrity sha512-jDkyyqIy2n+dtl3isE0Y8znnN936BGobE8SDnwErubJ3zOophPDFPMr7rCoIH+EUae6T7+t1cbBggGtvVf3ZtQ==
 
 emoji-regex@^8.0.0:
   version "8.0.0"
@@ -17352,9 +17352,9 @@ xstate@^4.26.0:
   integrity sha512-UK5m6OqUsTlPuKWkfRR5cR9/Yt7sysFyEg+PVIbEH9mwHSf9zuCvWO7rRvhBq7T+3pEXLKTEMfaqmLxl9Ob1pw==
 
 xstate@^4.26.1:
-  version "4.33.0"
-  resolved "https://registry.yarnpkg.com/xstate/-/xstate-4.33.0.tgz#4377a11e92267ad01ea498c4fc69887f0eddf1c8"
-  integrity sha512-+oari/Nt2cBq79mklnGA9Tsb6kv7ln+cIMfrH6n642XpTEG6sMRHg4GkooAbGbcslG3Ff9uH2jmGRP+1uoZ/Xw==
+  version "4.33.1"
+  resolved "https://registry.yarnpkg.com/xstate/-/xstate-4.33.1.tgz#07293258c78aa1cfaf798ca541e2ed7d71b6bb5b"
+  integrity sha512-C9A3esyOuw/xRpwQUkG2e1Gjd8sZYh42t66COq8DaJgaaLOqmE8zWRH1ouL9mHtQ3WV//uT5Ki3ijHGSUdLiww==
 
 xtend@^4.0.0, xtend@^4.0.1:
   version "4.0.2"

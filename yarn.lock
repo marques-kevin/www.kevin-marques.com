@@ -3974,9 +3974,9 @@
     form-data "^3.0.0"
 
 "@types/node@*":
-  version "18.11.11"
-  resolved "https://registry.yarnpkg.com/@types/node/-/node-18.11.11.tgz#1d455ac0211549a8409d3cdb371cd55cc971e8dc"
-  integrity sha512-KJ021B1nlQUBLopzZmPBVuGU9un7WJd/W4ya7Ih02B4Uwky5Nja0yGYav2EfYIk0RR2Q9oVhf60S2XR1BCWJ2g==
+  version "18.11.12"
+  resolved "https://registry.yarnpkg.com/@types/node/-/node-18.11.12.tgz#89e7f8aa8c88abf432f9bd594888144d7dba10aa"
+  integrity sha512-FgD3NtTAKvyMmD44T07zz2fEf+OKwutgBCEVM8GcvMGVGaDktiLNTDvPwC/LUe3PinMW+X6CuLOF2Ui1mAlSXg==
 
 "@types/node@16.9.1":
   version "16.9.1"
@@ -8990,10 +8990,27 @@ got@^11.8.2:
     p-cancelable "^2.0.0"
     responselike "^2.0.0"
 
-got@^11.8.3, got@^11.8.5:
+got@^11.8.3:
   version "11.8.5"
   resolved "https://registry.yarnpkg.com/got/-/got-11.8.5.tgz#ce77d045136de56e8f024bebb82ea349bc730046"
   integrity sha512-o0Je4NvQObAuZPHLFoRSkdG2lTgtcynqymzg2Vupdx6PorhaT5MCbIyXG6d4D94kk8ZG57QeosgdiqfJWhEhlQ==
+  dependencies:
+    "@sindresorhus/is" "^4.0.0"
+    "@szmarczak/http-timer" "^4.0.5"
+    "@types/cacheable-request" "^6.0.1"
+    "@types/responselike" "^1.0.0"
+    cacheable-lookup "^5.0.3"
+    cacheable-request "^7.0.2"
+    decompress-response "^6.0.0"
+    http2-wrapper "^1.0.0-beta.5.2"
+    lowercase-keys "^2.0.0"
+    p-cancelable "^2.0.0"
+    responselike "^2.0.0"
+
+got@^11.8.5:
+  version "11.8.6"
+  resolved "https://registry.yarnpkg.com/got/-/got-11.8.6.tgz#276e827ead8772eddbcfc97170590b841823233a"
+  integrity sha512-6tfZ91bOr7bOXnK7PRDCGBLa1H4U080YHNaAQ2KsMGlLEzRbk44nsZF2E1IeRc3vtJHPVbKCYgdFbaGO2ljd8g==
   dependencies:
     "@sindresorhus/is" "^4.0.0"
     "@szmarczak/http-timer" "^4.0.5"

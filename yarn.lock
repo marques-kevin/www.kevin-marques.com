@@ -4312,9 +4312,9 @@
     form-data "^3.0.0"
 
 "@types/node@*":
-  version "20.2.5"
-  resolved "https://registry.yarnpkg.com/@types/node/-/node-20.2.5.tgz#26d295f3570323b2837d322180dfbf1ba156fefb"
-  integrity sha512-JJulVEQXmiY9Px5axXHeYGLSjhkZEnD+MDPDGbCbIAbMslkKwmygtZFy1X6s/075Yo94sf8GuSlFfPzysQrWZQ==
+  version "20.3.0"
+  resolved "https://registry.yarnpkg.com/@types/node/-/node-20.3.0.tgz#719498898d5defab83c3560f45d8498f58d11938"
+  integrity sha512-cumHmIAf6On83X7yP+LrsEyUOf/YlociZelmpRYaGFydoaPdxdt80MAbu6vWerQT2COCp2nPvHdsbD7tHn/YlQ==
 
 "@types/node@16.9.1":
   version "16.9.1"
@@ -5758,9 +5758,9 @@ caniuse-lite@^1.0.30001370:
   integrity sha512-Mv659Hn65Z4LgZdJ7ge5JTVbE3rqbJaaXgW5LEI9/tOaXclfIZ8DW7D7FCWWWmWiiPS7AC48S8kf3DApSxQdgA==
 
 caniuse-lite@^1.0.30001489:
-  version "1.0.30001497"
-  resolved "https://registry.yarnpkg.com/caniuse-lite/-/caniuse-lite-1.0.30001497.tgz#0e5387b98e7dbf9c4f743fb16e92cbf0ca780714"
-  integrity sha512-I4/duVK4wL6rAK/aKZl3HXB4g+lIZvaT4VLAn2rCgJ38jVLb0lv2Xug6QuqmxXFVRJMF74SPPWPJ/1Sdm3vCzw==
+  version "1.0.30001498"
+  resolved "https://registry.yarnpkg.com/caniuse-lite/-/caniuse-lite-1.0.30001498.tgz#84e4ee2d03e0e4f8a04a508853b75a980c703201"
+  integrity sha512-LFInN2zAwx3ANrGCDZ5AKKJroHqNKyjXitdV5zRIVIaQlXKj3GmxUKagoKsjqUfckpAObPCEWnk5EeMlyMWcgw==
 
 ccount@^1.0.0, ccount@^1.0.3:
   version "1.1.0"

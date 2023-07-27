@@ -2577,9 +2577,9 @@
     strip-json-comments "^3.1.1"
 
 "@foudroyer/interfaces@*":
-  version "0.3.0"
-  resolved "https://registry.yarnpkg.com/@foudroyer/interfaces/-/interfaces-0.3.0.tgz#25888e46781e1fd1ac0188b26feb301fd8a52882"
-  integrity sha512-kRU1ynqXVxG55U/iObwr6haSRzpA82KoWuKnazLX2RPgoWBp1LMR+AjMP0g9bKg5LMfcaXdZ9KMLFANt7Y0c4Q==
+  version "0.4.0"
+  resolved "https://registry.yarnpkg.com/@foudroyer/interfaces/-/interfaces-0.4.0.tgz#8c489320d88670de25f164065fb5b94b7a148296"
+  integrity sha512-28BVBldSYpp0m6hrom8PnJHWEKE95006KbaPTQKuXjI4rqtR30O9cK+2y2qM2+Ivz1anI5SKJe2sXiX23ZXQsQ==
 
 "@foudroyer/mur@*":
   version "1.1.4"
@@ -7187,9 +7187,9 @@ electron-to-chromium@^1.4.202:
   integrity sha512-bwfkxPvK2PVbg+dXVFgoun+BkAyJmBPB0AqMTyQ/MzJsA/vEQoTi6Y1uWUDmo/IeOu2zvh4Ac6nfmFOWz5+oHg==
 
 electron-to-chromium@^1.4.431:
-  version "1.4.471"
-  resolved "https://registry.yarnpkg.com/electron-to-chromium/-/electron-to-chromium-1.4.471.tgz#14cb056d0ce4bfa99df57946d57fe46c2330dac3"
-  integrity sha512-GpmGRC1vTl60w/k6YpQ18pSiqnmr0j3un//5TV1idPi6aheNfkT1Ye71tMEabWyNDO6sBMgAR+95Eb0eUUr1tA==
+  version "1.4.472"
+  resolved "https://registry.yarnpkg.com/electron-to-chromium/-/electron-to-chromium-1.4.472.tgz#5556e50609a0d66d45e7d96c69b0e7a45c402f88"
+  integrity sha512-JL+vQaO4/3mnE68YLaO6tS61YFTlQp8/9JJj1kMP0CL9GHjLYt8t3T0aA3sW3PvdiXjnVeaZ6Kf0mGtt9+2j+Q==
 
 emoji-regex@^8.0.0:
   version "8.0.0"

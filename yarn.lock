@@ -2577,9 +2577,9 @@
     strip-json-comments "^3.1.1"
 
 "@foudroyer/interfaces@*":
-  version "0.9.1"
-  resolved "https://registry.yarnpkg.com/@foudroyer/interfaces/-/interfaces-0.9.1.tgz#7a3a0c28f584a50632ddde9050abfb3b106c7674"
-  integrity sha512-xtZjF6SAB4xF6c0xJ9XxaSq8oDZgLsbH++x6eiWTxr6OQ7TJgI54HnwK8I4VoatCa616YUpHI9UqX/Taib2ToQ==
+  version "0.10.0"
+  resolved "https://registry.yarnpkg.com/@foudroyer/interfaces/-/interfaces-0.10.0.tgz#91cb182bc348ddf33484bf0d58925f482419f7e7"
+  integrity sha512-J9dgkN65AQecSScRyrxvoCnSNwBqdK8WDf6Y4I/jwjxFKC0X9wLUrJCRBw1DWhm8C7jg65vF0VKJrW9BnPKDFQ==
 
 "@foudroyer/mur@*":
   version "1.1.4"
@@ -4338,9 +4338,9 @@
     form-data "^3.0.0"
 
 "@types/node@*":
-  version "20.4.7"
-  resolved "https://registry.yarnpkg.com/@types/node/-/node-20.4.7.tgz#74d323a93f1391a63477b27b9aec56669c98b2ab"
-  integrity sha512-bUBrPjEry2QUTsnuEjzjbS7voGWCc30W0qzgMf90GPeDGFRakvrz47ju+oqDAKCXLUCe39u57/ORMl/O/04/9g==
+  version "20.4.8"
+  resolved "https://registry.yarnpkg.com/@types/node/-/node-20.4.8.tgz#b5dda19adaa473a9bf0ab5cbd8f30ec7d43f5c85"
+  integrity sha512-0mHckf6D2DiIAzh8fM8f3HQCvMKDpK94YQ0DSVkfWTG9BZleYIWudw9cJxX8oCk9bM+vAkDyujDV6dmKHbvQpg==
 
 "@types/node@16.9.1":
   version "16.9.1"

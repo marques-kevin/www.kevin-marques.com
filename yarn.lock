@@ -2628,9 +2628,9 @@
     strip-json-comments "^3.1.1"
 
 "@foudroyer/interfaces@*":
-  version "0.10.0"
-  resolved "https://registry.yarnpkg.com/@foudroyer/interfaces/-/interfaces-0.10.0.tgz#91cb182bc348ddf33484bf0d58925f482419f7e7"
-  integrity sha512-J9dgkN65AQecSScRyrxvoCnSNwBqdK8WDf6Y4I/jwjxFKC0X9wLUrJCRBw1DWhm8C7jg65vF0VKJrW9BnPKDFQ==
+  version "0.11.1"
+  resolved "https://registry.yarnpkg.com/@foudroyer/interfaces/-/interfaces-0.11.1.tgz#a71b896e5789be64cbafe908efd74ce39e568648"
+  integrity sha512-FmhSozPSInW2Lfx9xls5IGY241AIDoyScCJtMdn4QCKfkDz62fSIu6+owRVirmQU6y/cLzwuHT2FDJSBCuc4+g==
 
 "@foudroyer/mur@*":
   version "1.1.4"
@@ -4384,9 +4384,9 @@
     form-data "^3.0.0"
 
 "@types/node@*":
-  version "20.4.8"
-  resolved "https://registry.yarnpkg.com/@types/node/-/node-20.4.8.tgz#b5dda19adaa473a9bf0ab5cbd8f30ec7d43f5c85"
-  integrity sha512-0mHckf6D2DiIAzh8fM8f3HQCvMKDpK94YQ0DSVkfWTG9BZleYIWudw9cJxX8oCk9bM+vAkDyujDV6dmKHbvQpg==
+  version "20.4.9"
+  resolved "https://registry.yarnpkg.com/@types/node/-/node-20.4.9.tgz#c7164e0f8d3f12dfae336af0b1f7fdec8c6b204f"
+  integrity sha512-8e2HYcg7ohnTUbHk8focoklEQYvemQmu9M/f43DZVx43kHn0tE3BY/6gSDxS7k0SprtS0NHvj+L80cGLnoOUcQ==
 
 "@types/node@16.9.1":
   version "16.9.1"
@@ -7253,9 +7253,9 @@ electron-to-chromium@^1.4.431:
   integrity sha512-qjTA8djMXd+ruoODDFGnRCRBpID+AAfYWCyGtYTNhsuwxI19s8q19gbjKTwRS5z/LyVf5wICaIiPQGLekmbJbA==
 
 electron-to-chromium@^1.4.477:
-  version "1.4.487"
-  resolved "https://registry.yarnpkg.com/electron-to-chromium/-/electron-to-chromium-1.4.487.tgz#e2ef8b15f2791bf68fa6f38f2656f1a551d360ae"
-  integrity sha512-XbCRs/34l31np/p33m+5tdBrdXu9jJkZxSbNxj5I0H1KtV2ZMSB+i/HYqDiRzHaFx2T5EdytjoBRe8QRJE2vQg==
+  version "1.4.488"
+  resolved "https://registry.yarnpkg.com/electron-to-chromium/-/electron-to-chromium-1.4.488.tgz#442b1855f8c84fb1ed79f518985c65db94f64cc9"
+  integrity sha512-Dv4sTjiW7t/UWGL+H8ZkgIjtUAVZDgb/PwGWvMsCT7jipzUV/u5skbLXPFKb6iV0tiddVi/bcS2/kUrczeWgIQ==
 
 emoji-regex@^8.0.0:
   version "8.0.0"

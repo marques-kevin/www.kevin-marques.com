@@ -2633,9 +2633,9 @@
     strip-json-comments "^3.1.1"
 
 "@foudroyer/interfaces@*":
-  version "0.19.1"
-  resolved "https://registry.yarnpkg.com/@foudroyer/interfaces/-/interfaces-0.19.1.tgz#f32427e33f47e5d311b410315411dcb6f3ba9a73"
-  integrity sha512-zfeXfIv9evPObJsMJ//wWdgs4eIZQQx1azCJ459Dq5BA3L5MBn4tJ/qcAJstNNr4iqPO5bTrtOri/9zwkgwbrg==
+  version "0.20.1"
+  resolved "https://registry.yarnpkg.com/@foudroyer/interfaces/-/interfaces-0.20.1.tgz#0ae4dfd2e8027f6fbd62d50b85f8bad681030b20"
+  integrity sha512-DiS0qFYRtDzEovmr1eLiF7J5JsxTd1dp4Gbe7nUVAPdi2bDX6T0/JGMGi9Bjzh9d3KAyKtOLej80TiFTneAlqQ==
 
 "@foudroyer/mur@*":
   version "1.1.4"
@@ -4389,9 +4389,9 @@
     form-data "^3.0.0"
 
 "@types/node@*":
-  version "20.5.8"
-  resolved "https://registry.yarnpkg.com/@types/node/-/node-20.5.8.tgz#fb171fd22d37ca6e2ea97fde88e6a13ee14bc327"
-  integrity sha512-eajsR9aeljqNhK028VG0Wuw+OaY5LLxYmxeoXynIoE6jannr9/Ucd1LL0hSSoafk5LTYG+FfqsyGt81Q6Zkybw==
+  version "20.5.9"
+  resolved "https://registry.yarnpkg.com/@types/node/-/node-20.5.9.tgz#a70ec9d8fa0180a314c3ede0e20ea56ff71aed9a"
+  integrity sha512-PcGNd//40kHAS3sTlzKB9C9XL4K0sTup8nbG5lC14kzEteTNuAFh9u5nA0o5TWnSG2r/JNPRXFVcHJIIeRlmqQ==
 
 "@types/node@16.9.1":
   version "16.9.1"
@@ -14060,9 +14060,9 @@ property-information@^5.0.0, property-information@^5.3.0:
     xtend "^4.0.0"
 
 property-information@^6.0.0:
-  version "6.2.0"
-  resolved "https://registry.yarnpkg.com/property-information/-/property-information-6.2.0.tgz#b74f522c31c097b5149e3c3cb8d7f3defd986a1d"
-  integrity sha512-kma4U7AFCTwpqq5twzC1YVIDXSqg6qQK6JN0smOw8fgRy1OkMi0CYSzFmsy6dnqSenamAtj0CyXMUJ1Mf6oROg==
+  version "6.3.0"
+  resolved "https://registry.yarnpkg.com/property-information/-/property-information-6.3.0.tgz#ba4a06ec6b4e1e90577df9931286953cdf4282c3"
+  integrity sha512-gVNZ74nqhRMiIUYWGQdosYetaKc83x8oT41a0LlV3AAFCAZwCpg4vmGkq8t34+cUhp3cnM4XDiU/7xlgK7HGrg==
 
 protocol-buffers-schema@^3.3.1:
   version "3.6.0"

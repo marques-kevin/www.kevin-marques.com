@@ -2716,9 +2716,9 @@
     strip-json-comments "^3.1.1"
 
 "@foudroyer/interfaces@*":
-  version "0.47.0"
-  resolved "https://registry.yarnpkg.com/@foudroyer/interfaces/-/interfaces-0.47.0.tgz#ab4e228701ad43fe269f09638c5f6ae43235a733"
-  integrity sha512-rpQf6R3Sd/1vzCcBk9uoGpPmN58C25ewSktWsSlBgqkzYqC1iu6YR0T7C4f/KVdIKuP32qs10TWQRcuJvk/E3w==
+  version "0.48.0"
+  resolved "https://registry.yarnpkg.com/@foudroyer/interfaces/-/interfaces-0.48.0.tgz#a1a76c463a4567f709b6570897e69410eed339e4"
+  integrity sha512-GpZ9KLKUbf55gwHe1YFpNWWeaGivItfXCvB9VWq7Q85jJk5bm3TfyLl6lElnu0OImjTwByXQCqb2RPs6ovj++Q==
 
 "@foudroyer/mur@*":
   version "1.1.4"
@@ -4472,9 +4472,9 @@
     form-data "^3.0.0"
 
 "@types/node@*":
-  version "20.9.1"
-  resolved "https://registry.yarnpkg.com/@types/node/-/node-20.9.1.tgz#9d578c610ce1e984adda087f685ace940954fe19"
-  integrity sha512-HhmzZh5LSJNS5O8jQKpJ/3ZcrrlG6L70hpGqMIAoM9YVD0YBRNWYsfwcXq8VnSjlNpCpgLzMXdiPo+dxcvSmiA==
+  version "20.9.2"
+  resolved "https://registry.yarnpkg.com/@types/node/-/node-20.9.2.tgz#002815c8e87fe0c9369121c78b52e800fadc0ac6"
+  integrity sha512-WHZXKFCEyIUJzAwh3NyyTHYSR35SevJ6mZ1nWwJafKtiQbqRTIKSRcw3Ma3acqgsent3RRDqeVwpHntMk+9irg==
   dependencies:
     undici-types "~5.26.4"
 

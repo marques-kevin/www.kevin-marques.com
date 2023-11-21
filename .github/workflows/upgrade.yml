@@ -36,6 +36,7 @@ jobs:
           git config --global user.name "Foudroyer"
           git config --global push.default simple
 
+
       - name: Commit & Push
         continue-on-error: true
         run: "git add . && git commit -m 'chore: upgrade foudroyer/mur' && git push"

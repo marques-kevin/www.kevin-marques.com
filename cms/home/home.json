@@ -54,6 +54,16 @@
             "alt": "temple"
           },
           "url": "https://www.temple-du-haiku.fr/"
+        },
+        {
+          "type": "block/link",
+          "title": "Munbeob • 1000 visitors",
+          "description": "Learn and research how to conjugate Korean verbs. Over 2000 verbs with all forms, politeness and examples.\t",
+          "favicon": {
+            "src": "../assets/munbeob-logo.png",
+            "alt": "munbeob logo"
+          },
+          "url": "https://www.munbeob.com"
         }
       ]
     }

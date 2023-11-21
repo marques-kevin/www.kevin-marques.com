@@ -1,7 +1,7 @@
 {
   "username": "Kevin Marques",
   "handle": "kevin-marques",
-  "bio": "Yo everyone ❤️ I'm a pianist, web developer, article writer around computer   development, and many other passions! 🔱 I hope to see you on the net!",
+  "bio": "Yo everyone ❤️ I'm a web developer that love create products with help of seo. You can see my projects below.",
   "image": {
     "src": "../assets/te_le_chargement.jpeg",
     "alt": "kevin-marques"
@@ -16,14 +16,6 @@
       "url": "https://twitter.com/KM_Marques"
     },
     {
-      "network": "facebook",
-      "url": "https://www.facebook.com/kevin.marques.humain"
-    },
-    {
-      "network": "tiktok",
-      "url": "https://www.tiktok.com/@le_kem_"
-    },
-    {
       "network": "medium",
       "url": "https://medium.com/@MarquesKevin"
     }
@@ -35,18 +27,28 @@
       "blocks": [
         {
           "type": "block/link",
-          "title": "Sudoku Academy",
+          "title": "Foudroyer • $3000/m",
+          "description": "Foudroyer lets you centralize in one place everything you need to reach the top 1 on search engines.",
+          "favicon": {
+            "src": "../assets/foudroyer-logo.png",
+            "alt": "foudroyer logo"
+          },
+          "url": "https://www.foudroyer.com"
+        },
+        {
+          "type": "block/link",
+          "title": "Sudoku Academy • $250/m",
           "description": "Whether you are a beginner or an advanced player, come and have fun solving sudoku puzzles online for free.",
           "favicon": {
             "src": "../assets/icon-96x96.png",
-            "alt": "default alt"
+            "alt": "sudoku academy logo"
           },
           "url": "https://www.sudoku.academy/"
         },
         {
           "type": "block/link",
-          "title": "Temple du Haïku",
-          "description": "Le Temple du Haïku est un site communautaire pour passionnés de haïkus, lire et publier des haïkus, visionner des exemple de haïkus d'auteurs comme Matsuo Basho.",
+          "title": "Temple du Haïku • $30/m",
+          "description": "The Haiku Temple is a community site for haiku enthusiasts to read and publish haikus, and to view examples of haikus from authors like Matsuo Basho.",
           "favicon": {
             "src": "../assets/192x192.png",
             "alt": "temple"

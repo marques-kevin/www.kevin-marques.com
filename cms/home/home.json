@@ -27,7 +27,7 @@
       "blocks": [
         {
           "type": "block/link",
-          "title": "Foudroyer • $4500/m",
+          "title": "Foudroyer",
           "description": "Foudroyer lets you centralize in one place everything you need to reach the top 1 on search engines.",
           "favicon": {
             "src": "../assets/foudroyer-logo.png",
@@ -37,7 +37,7 @@
         },
         {
           "type": "block/link",
-          "title": "Sudoku Academy • $250/m",
+          "title": "Sudoku Academy",
           "description": "Whether you are a beginner or an advanced player, come and have fun solving sudoku puzzles online for free.",
           "favicon": {
             "src": "../assets/icon-96x96.png",
@@ -47,7 +47,7 @@
         },
         {
           "type": "block/link",
-          "title": "Temple du Haïku • $30/m",
+          "title": "Temple du Haïku",
           "description": "The Haiku Temple is a community site for haiku enthusiasts to read and publish haikus, and to view examples of haikus from authors like Matsuo Basho.",
           "favicon": {
             "src": "../assets/192x192.png",
@@ -57,7 +57,7 @@
         },
         {
           "type": "block/link",
-          "title": "Munbeob • 1000 visitors per month",
+          "title": "Munbeob ",
           "description": "Learn and research how to conjugate Korean verbs. Over 2000 verbs with all forms, politeness and examples.\t",
           "favicon": {
             "src": "../assets/munbeob-logo.png",

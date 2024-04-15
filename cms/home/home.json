@@ -47,7 +47,7 @@
         },
         {
           "type": "block/link",
-          "title": "Temple du Haïku",
+          "title": "Temple du Haïku Helo",
           "description": "The Haiku Temple is a community site for haiku enthusiasts to read and publish haikus, and to view examples of haikus from authors like Matsuo Basho.",
           "favicon": {
             "src": "../assets/192x192.png",

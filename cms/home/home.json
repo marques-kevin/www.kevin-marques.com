@@ -27,6 +27,16 @@
       "blocks": [
         {
           "type": "block/link",
+          "title": "My Search Console",
+          "description": "My Search Console is a service where you can see Google Search Console data easely.",
+          "favicon": {
+            "src": "../assets/my-search-console-favicon.png",
+            "alt": "my search console icon"
+          },
+          "url": "https://www.my-search-console.com"
+        },
+        {
+          "type": "block/link",
           "title": "Foudroyer",
           "description": "Foudroyer lets you centralize in one place everything you need to reach the top 1 on search engines.",
           "favicon": {

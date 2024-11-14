@@ -27,6 +27,16 @@
       "blocks": [
         {
           "type": "block/link",
+          "title": "Sudoku Academy",
+          "description": "Whether you are a beginner or an advanced player, come and have fun solving sudoku puzzles online for free.",
+          "favicon": {
+            "src": "../assets/icon-96x96.png",
+            "alt": "sudoku academy logo"
+          },
+          "url": "https://www.sudoku.academy/"
+        },
+        {
+          "type": "block/link",
           "title": "My Search Console",
           "description": "My Search Console is a service where you can see Google Search Console data easely.",
           "favicon": {
@@ -47,17 +57,7 @@
         },
         {
           "type": "block/link",
-          "title": "Sudoku Academy",
-          "description": "Whether you are a beginner or an advanced player, come and have fun solving sudoku puzzles online for free.",
-          "favicon": {
-            "src": "../assets/icon-96x96.png",
-            "alt": "sudoku academy logo"
-          },
-          "url": "https://www.sudoku.academy/"
-        },
-        {
-          "type": "block/link",
-          "title": "Temple du Haïku Helo",
+          "title": "Temple du Haïku",
           "description": "The Haiku Temple is a community site for haiku enthusiasts to read and publish haikus, and to view examples of haikus from authors like Matsuo Basho.",
           "favicon": {
             "src": "../assets/192x192.png",
@@ -74,6 +74,16 @@
             "alt": "munbeob logo"
           },
           "url": "https://www.munbeob.com"
+        },
+        {
+          "type": "block/link",
+          "title": "Zenless Zone Zero Music",
+          "description": "A fan made website where you can find all musics from a famous game.",
+          "favicon": {
+            "src": "../assets/faviconv2.png",
+            "alt": "Zenless Zone Zero Music App Icon"
+          },
+          "url": "https://zenless-zone-zero-music.app/"
         }
       ]
     }

@@ -1,0 +1,23 @@
+{
+  "projects": {
+    "default": "kevin-marques",
+    "storybook": "storybook-kevin-marques"
+  },
+  "targets": {
+    "kevin-marques": {
+      "hosting": {
+        "dashboard": [
+          "kevin-marques"
+        ]
+      }
+    },
+    "storybook-kevin-marques": {
+      "hosting": {
+        "storybook": [
+          "storybook-kevin-marques"
+        ]
+      }
+    }
+  },
+  "etags": {}
+}

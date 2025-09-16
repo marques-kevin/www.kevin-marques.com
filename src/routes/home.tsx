@@ -48,9 +48,9 @@ function Article({ article }: { article: Article }) {
       </div>
       <div>
         <div className="font-medium leading-none">
-          <Link to={article.url}>
+          <a href={article.url} target="_blank">
             {intl.formatMessage({ id: article.title })}
-          </Link>
+          </a>
         </div>
         <div className="mt-1 text-sm text-slate-500">
           {intl.formatMessage({ id: article.description })}
@@ -82,13 +82,13 @@ interface Role {
 }
 
 function Role({ role }: { role: Role }) {
-  let startLabel =
+  const startLabel =
     typeof role.start === "string" ? role.start : role.start.label;
-  let startDate =
+  const startDate =
     typeof role.start === "string" ? role.start : role.start.dateTime;
 
-  let endLabel = typeof role.end === "string" ? role.end : role.end.label;
-  let endDate = typeof role.end === "string" ? role.end : role.end.dateTime;
+  const endLabel = typeof role.end === "string" ? role.end : role.end.label;
+  const endDate = typeof role.end === "string" ? role.end : role.end.dateTime;
 
   return (
     <li className="flex gap-4">
@@ -124,7 +124,7 @@ function Role({ role }: { role: Role }) {
 
 function Resume() {
   const intl = useIntl();
-  let resume: Array<Role> = [
+  const resume: Array<Role> = [
     {
       company: intl.formatMessage({ id: "home/jobs/foudroyer/title" }),
       title: intl.formatMessage({ id: "home/jobs/foudroyer/role" }),
@@ -169,7 +169,7 @@ function Resume() {
 }
 
 function Photos() {
-  let rotations = [
+  const rotations = [
     "rotate-2",
     "-rotate-2",
     "rotate-2",
@@ -249,7 +249,7 @@ export const HomeRoute: React.FC<RouteComponentProps> = () => {
         <Container className="mt-6 bg-white">
           <div className="max-w-2xl">
             <img
-              src="https://media.licdn.com/dms/image/v2/D4E03AQHNChhMOKc1Uw/profile-displayphoto-shrink_800_800/B4EZcqavBUHsAg-/0/1748763341285?e=1756339200&v=beta&t=XbD2dZbZb8wSYtyMVoQuMOarPBUdfiLHHOfNN8d-DQk"
+              src="/logo.jpeg"
               alt="Kevin"
               className="h-12 w-12 rounded-full"
             />

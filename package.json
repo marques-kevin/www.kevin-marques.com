@@ -4,11 +4,7 @@
   "version": "0.0.0",
   "type": "module",
   "scripts": {
-    "start": "tsx start.ts",
-    "start:mode:api:local": "VITE_MODE=api NODE_ENV=development vite --host",
-    "start:mode:api:production": "VITE_MODE=api NODE_ENV=production vite --host --port 3000",
-    "start:mode:demo": "VITE_MODE=demo vite --host",
-    "start:mode:in-memory": "VITE_MODE=in-memory vite --host",
+    "start": "vite",
     "dev": "vite",
     "build": "vite build",
     "lint": "eslint .",

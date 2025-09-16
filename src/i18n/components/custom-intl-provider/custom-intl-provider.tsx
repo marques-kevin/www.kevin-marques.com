@@ -12,15 +12,13 @@ import ru from "../../messages/ru.json";
 import tr from "../../messages/tr.json";
 import zh from "../../messages/zh.json";
 
-import { LOCAL_STORAGE_KEYS } from "@/modules/local-storage/services/local-storage.service";
-
 type Props = {
   children: React.ReactNode;
 };
 
 const get_language = () => {
   try {
-    const language = localStorage.getItem(LOCAL_STORAGE_KEYS.LANGUAGE_KEY);
+    const language = localStorage.getItem("language");
     return language || "en";
   } catch {
     return "en";
